@@ -1,0 +1,106 @@
+[
+  {
+    "paperId": 6,
+    "paperTitle": "Light-Field Dataset for Disparity Based Depth Estimation",
+    "abstract": "A Light Field (LF) camera consists of an additional two-dimensional array of micro-lens placed between the main lens and sensor, compared to a conventional camera. The sensor pixels under each micro-lens receive light from a sub-aperture of the main lens. This empowers the image sensor to capture spatial information as well as the angular resolution of a scene point. This additional angular information is used to estimate the depth of a 3-D scene. The continuum of virtual viewpoints in light field data enables efficient depth estimation using Epi-polar Line Images (EPIs) with robust occlusion handling.",
+    "primaryContactAuthorName": "Suresh Nehra",
+    "primaryContactAuthorEmail": "sknehra975@iitkgp.ac.in",
+    "authors": "Suresh Nehra (Indian Institute of Technology, Kharagpur); Aupendu Kar (Dolby); Prabir Kumar Biswas (Indian Institute of Technology, Kharagpur); Jayanta Mukhopadhyay (Indian Institute of Technology, Kharagpur)"
+  },
+  {
+    "paperId": 12,
+    "paperTitle": "ReviewGuard: Context-Aware Detection of AI-Generated Text in Academic Peer Reviews",
+    "abstract": "The proliferation of Large Language Models (LLMs) in academic writing has complicated the task of distinguishing AI-generated content from human-authored text. One of the most critical areas where this distinction is crucial is peer reviews. This paper introduces ReviewGuard, a novel context-aware detection framework specifically tailored for academic peer review settings. ReviewGuard achieves state-of-the-art performance with an F1 score of 0.8951.",
+    "primaryContactAuthorName": "Samarth Garg",
+    "primaryContactAuthorEmail": "",
+    "authors": "Samarth Garg (ABV-IIITM Gwalior); Debanjan Sadhya (ABV-IIITM Gwalior)*; Sunil Kumar (ABV-IIITM Gwalior)"
+  },
+  {
+    "paperId": 20,
+    "paperTitle": "Mask What Matters: Action-Specific Privacy via Object-Layer Transformation",
+    "abstract": "Video-based action recognition is increasingly deployed on resource-constrained edge devices. We propose a privacy-preserving data transformation technique called Object Layer Transformation (OLT). OLT introduces a high level of obfuscation by leveraging pre-trained object detection and segmentation models to identify and mask sensitive content in the input frames. Evaluated on UCF-101, OLT achieves 71.8% balanced accuracy.",
+    "primaryContactAuthorName": "Aditi Palit",
+    "primaryContactAuthorEmail": "",
+    "authors": "Aditi Palit (Indian Institute of Technology)*; PRANAY VARNA CHINTHAPATLA (Sree Vidyanikethan Engineering College); DEDEEPYA VEMBULURU (Sri Venkateswara College of Engineering); Kalidas Yeturu (Indian Institute of Technology)"
+  },
+  {
+    "paperId": 27,
+    "paperTitle": "Bayesian Transform Learning",
+    "abstract": "We propose a fully Bayesian formulation of transform learning, in which both the transform matrix and sparse coefficients are treated as latent variables with structured priors. We develop two inference strategies: Variational Bayes (VB) using a Laplacian prior and Gibbs Sampling (GS) with an automatic relevance determination (ARD) prior. We apply our framework to compressed sensing MRI (CS-MRI) reconstruction.",
+    "primaryContactAuthorName": "Angshul Majumdar",
+    "primaryContactAuthorEmail": "",
+    "authors": "Angshul Majumdar (IIIT Delhi); Durba Bhattacharya (St. Xavier's College)"
+  },
+  {
+    "paperId": 29,
+    "paperTitle": "Smoothness-Preserving Deep Semi Non-negative Matrix Factorization for Clustering",
+    "abstract": "This work introduces a novel deep semi-non-negative matrix factorization (Deep Semi-NMF) approach for clustering. We first learn a feature representation through deep semi-negative matrix factorization on the data. This learned representation is then used to learn a graph Laplacian. Our approach demonstrates significant improvements over existing methods.",
+    "primaryContactAuthorName": "Debapriya Roy (Kundu)",
+    "primaryContactAuthorEmail": "",
+    "authors": "Debapriya Roy (Kundu) (ISI Kolkata)*; Angshul Majumdar (TCG CREST)"
+  },
+  {
+    "paperId": 34,
+    "paperTitle": "Mimicking Human Visual Development for Learning Robust Image Representations",
+    "abstract": "Drawing inspiration from the developmental trajectory of human vision, we propose a progressive blurring curriculum to improve the generalization and robustness of CNNs. Our experiments demonstrate that the proposed curriculum reduces mean corruption error (mCE) by up to 8.30% on CIFAR-10-C and 4.43% on ImageNet-100-C datasets.",
+    "primaryContactAuthorName": "Ankita Raj",
+    "primaryContactAuthorEmail": "",
+    "authors": "Ankita Raj (Indian Institute of Technology Delhi)*; Kaashika Prajaapat (Clinikally); Tapan Gandhi (Indian Institute of Technology Delhi); Chetan Arora (Indian Institute of Technology Delhi)"
+  },
+  {
+    "paperId": 36,
+    "paperTitle": "Multi-modal Image Colorization with Instance-Aware Transformer network",
+    "abstract": "We propose a novel colorization method that provides the flexibility to provide additional guidance using multiple input modalities. Our method consists of a novel color histogram predictor followed by an instance-aware colorization transformer network, that can automatically colorize the input image with optional conditioning using color palette, exemplar image and language descriptions.",
+    "primaryContactAuthorName": "Mrinmoy Sen",
+    "primaryContactAuthorEmail": "",
+    "authors": "Mrinmoy Sen (Samsung R&D Institute India - Bangalore)*; Akshay Bankar (Samsung R&D Institute India - Bangalore); Ravikiran Kundapur Subraya (Samsung R&D Institute India - Bangalore); Roopa Sheshadri (Samsung R&D Institute India - Bangalore); Kyuwon Kim (Samsung Electronics)"
+  },
+  {
+    "paperId": 40,
+    "paperTitle": "VAD-FedHSM: Video Anomaly Detection in Federated Learning Framework with Local Hard Sample Mining",
+    "abstract": "We propose a novel iterative framework that integrates Hard Sample Mining (HSM) with Federated Learning (FL). Each client incrementally refines its model by identifying and training on difficult samples during local training. Extensive experiments demonstrate superior results on the UCF-Crime dataset.",
+    "primaryContactAuthorName": "Dillip Sathiyamoorthy",
+    "primaryContactAuthorEmail": "",
+    "authors": "Dillip Sathiyamoorthy (Indian Institute of Technology Guwahati); Prithwijit Guha (Indian Institute of Technology Guwahati)"
+  },
+  {
+    "paperId": 41,
+    "paperTitle": "Compressive Modeling and Visualization of Multivariate Scientific Data using Implicit Neural Representation",
+    "abstract": "We develop compressed neural representations for multivariate datasets containing tens to hundreds of variables. Our approach utilizes a single network to learn representations for all data variables simultaneously through parameter sharing. This allows us to achieve state-of-the-art data compression.",
+    "primaryContactAuthorName": "Soumya Dutta",
+    "primaryContactAuthorEmail": "",
+    "authors": "ABHAY DWIVEDI (IIT Kanpur); Shanu Saklani (IIT Kanpur); Soumya Dutta (IIT Kanpur)*"
+  },
+  {
+    "paperId": 47,
+    "paperTitle": "RibCageImp: A Deep Learning Framework for 3D Ribcage Implant Generation",
+    "abstract": "We present a framework based on a 3D U-Net architecture that processes CT scans to generate patient-specific implant designs. To the best of our knowledge, this is the first investigation into automated thoracic implant generation using deep learning approaches.",
+    "primaryContactAuthorName": "Gyanendra Chaubey",
+    "primaryContactAuthorEmail": "",
+    "authors": "Gyanendra Chaubey (Indian Institute of Technology, Jodhpur)*; Azad Singh (Indian Institute of Technology, Jodhpur); Aiman Farooq (Indian Institute of Technology, Jodhpur); Deepak Mishra (Indian Institute of Technology, Jodhpur)"
+  },
+  {
+    "paperId": 54,
+    "paperTitle": "Lightweight and Accurate Deepfake Detection using Gradient-Aware SE-Enhanced EfficientNetV2-S",
+    "abstract": "A novel method for detecting deep-fake images by combining EfficientNetV2-S with Squeeze-and-Excitation (SE) blocks and gradient-based attention mechanisms. The proposed method achieves accuracy of 98.29% and 98.90% on CIFAKE and DFFD datasets respectively with only 26.15 million parameters.",
+    "primaryContactAuthorName": "Prof. Ketan P. Detroja",
+    "primaryContactAuthorEmail": "",
+    "authors": "Prof. Ketan P. Detroja IIT Hyderabad*"
+  },
+  {
+    "paperId": 76,
+    "paperTitle": "Unveiling Text in Challenging Stone Inscriptions: A Spatially-Adaptive Patching Strategy for Binarization",
+    "abstract": "We propose a spatially-adaptive patching strategy for binarizing challenging stone inscriptions. Our method adapts to varying degradation patterns and achieves robust text extraction from ancient stone surfaces.",
+    "primaryContactAuthorName": "Ravi Kiran Sarvadevabhatla",
+    "primaryContactAuthorEmail": "",
+    "authors": "Pratyush Jena (IIIT Hyderabad); Amal Joseph (IIIT Hyderabad); Arnav Sharma (IIIT Hyderabad); Ravi Kiran Sarvadevabhatla (IIIT Hyderabad)*"
+  },
+  {
+    "paperId": 90,
+    "paperTitle": "HalluShift++: Bridging Language and Vision through Internal Representation Shifts for Hierarchical Hallucinations in MLLMs",
+    "abstract": "We address hierarchical hallucinations in Multimodal Large Language Models through internal representation shifts. Our approach bridges the gap between language and vision modalities for improved factual consistency.",
+    "primaryContactAuthorName": "Sukanya Das",
+    "primaryContactAuthorEmail": "",
+    "authors": "Sukanya Das (Indian Institute of Technology Kharagpur)*; Debasis Samanta (Indian Institute of Technology Kharagpur); Monalisa Sarma (Indian Institute of Technology Kharagpur)"
+  }
+]

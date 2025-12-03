@@ -1,0 +1,79 @@
+[
+  {
+    "paperId": 223,
+    "paperTitle": "PointxLSTM: Integrating xLSTM for 3D Point Cloud Completion and Analysis",
+    "authors": "Seema Kumari (IIT Gandhinagar)*; Mitkumar Patel (Pandit Deendayal Energy University); Ankeshwar Ruthesha (IIT Gandhinagar); Shanmuganathan Raman (IIT Gandhinagar)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 6,
+    "paperTitle": "Light-Field Dataset for Disparity Based Depth Estimation",
+    "authors": "Suresh Nehra (Indian Institute of Technology, Kharagpur)*; Aupendu Kar (Dolby); Prabir Kumar Biswas (Indian Institute of Technology, Kharagpur); Jayanta Mukhopadhyay (Indian Institute of Technology, Kharagpur)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 69,
+    "paperTitle": "Evaluating Illumination Effects on AU Intensity in Bone-Driven Facial Animation of 3D Avatar",
+    "authors": "Bavneet Kaur (Punjabi University, Patiala)*; Gurpreet Singh Josan (Punjabi University, Patiala)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 336,
+    "paperTitle": "Knowledge-Based Metaverse for Crafts",
+    "authors": "Supreet Kaur (Indian Institute of Technology Jodhpur)*; Ajay Parakh (TIH, iHub Drishti Foundation, IIT Jodhpur); Vishakha Pareek (TIH, iHub Drishti Foundation, IIT Jodhpur); Rajendra Nagar (Indian Institute of Technology Jodhpur); Santanu Chaudhury (Indian Institute of Technology Delhi)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 233,
+    "paperTitle": "Chaff-Free Fuzzy Vault using Multimodal Biometrics for Secure Key Access",
+    "authors": "Kashish Jain (IIT, Delhi, India)*; NARAYAN MISHRA (IIT, Delhi, India); Vireshwar Kumar (IIT, Delhi, India); Ashok Kumar Bhateja (IIT, Delhi, India)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 165,
+    "paperTitle": "Rethinking Detection Heads: Enhancing YOLO for Drone Image Object Detection",
+    "authors": "Rutvik Patel (Indian Institute of Technology Delhi); Anureet Chhabra (Indian Institute of Technology Delhi)*; Ankita Raj (Indian Institute of Technology Delhi); Chetan Arora (Indian Institute of Technology Delhi)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 88,
+    "paperTitle": "Enhancing Spiking Neural Networks with Evidential Deep Learning for Object Classification on Event Based Dataset",
+    "authors": "Prabhat Kumar (Indian Institute of Technology, Jammu)*; Badri Narayan Subudhi (Indian Institute of Technology, Jammu); Vinit Jakhetiya (Indian Institute of Technology, Jammu)",
+    "session": "Poster-Session-1",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 183,
+    "paperTitle": "Towards Scalable Sign Production: Leveraging Co-Articulated Gloss Dictionary for Fluid Sign Synthesis",
+    "authors": "Aparna Agrawal (IIITH)*; Seshadri Mazumder (IIITH); Vinay Namboodiri (IIITH); C V Jawahar (IIITH)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 343,
+    "paperTitle": "UnCageNet: Tracking and Pose Estimation of Caged Animals",
+    "authors": "Sayak Dutta (IIT Gandhinagar)*; Harish Katti (National Institutes of Health); Shashikant Verma (IIT Gandhinagar); Shanmuganathan Raman (IIT Gandhinagar)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 307,
+    "paperTitle": "Milk or mimic? MilkNet: Spectral-Spatial Fusion Net for Brand Authentication in Commercial Milk Products Using Hyperspectral Imaging",
+    "authors": "Padmasri P (Thiagarajar College of Engineering)*; Sathya Bama B (Thiagarajar College of Engineering); Mohamed Mansoor Roomi Sindha (Thiagarajar College of Engineering)",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  },
+  {
+    "paperId": 267,
+    "paperTitle": "The Green Mile: A Multi-Layered Quest to Reveal, Measure, and Slash Carbon Emissions in AI Training & Inference",
+    "authors": "Subramanyam Sahoo (NIT Hamirpur)*",
+    "session": "Poster-Session-2",
+    "sessionChair": ""
+  }
+]
