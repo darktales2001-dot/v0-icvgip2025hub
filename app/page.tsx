@@ -19,8 +19,9 @@ import {
   Clock,
   MapPin,
 } from "lucide-react"
-import scheduleImage from "@/assets/schedule.png"
 import { cn } from "@/lib/utils"
+
+const scheduleImage = "/schedule.png"
 
 const scheduleByDate = {
   dec17: {
